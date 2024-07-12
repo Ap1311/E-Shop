@@ -1,0 +1,265 @@
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    body {
+      background-image: url('bg.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    h1 {
+      border: solid 5px black;
+      color: #330033;
+      font-family: Calibri;
+      background-color: orange;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-radius: 15px;
+    }
+    #serch {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      border: 2px solid #ccc;
+      border-radius: 15px;
+      transition: all 0.3s ease-in-out;
+      max-width: 600px;
+    }
+    #serch:hover {
+      border-color: #66afe9;
+      box-shadow: 0 0 10px rgba(102, 175, 233, 0.6);
+      transform: scale(1.05);
+    }
+    #search-button {
+      background-color: #fff;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      padding: 10px;
+      cursor: pointer;
+      transition: all 0.3s ease-in-out;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin-left: 10px;
+    }
+    #search-button:hover {
+      background-color: #66afe9;
+      border-color: #66afe9;
+      box-shadow: 0 0 10px rgba(102, 175, 233, 0.6);
+      transform: scale(1.2);
+    }
+    #search-button svg {
+      fill: #000;
+      transition: fill 0.3s ease-in-out;
+    }
+    #search-button:hover svg {
+      fill: #fff;
+    }
+    #cart {
+      background: none;
+      border: none;
+      cursor: pointer;
+      margin-left: 20px;
+      transition: all 0.3s ease-in-out;
+      font-weight: bold;
+      box-shadow: 0 0 10px rgba(102, 175, 233, 0.6);
+    }
+    #cart svg {
+      fill: #000;
+      transition: fill 0.3s ease-in-out;
+    }
+    #cart:hover svg {
+      fill: #66afe9;
+      transform: scale(1.2);
+    }
+    .table-img {
+      text-align: center;
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 20px;
+      padding: 20px
+    }
+    .table-img td {
+      position: relative;
+      overflow: hidden;
+      padding: 20px;
+      background-color: rgba(255, 165, 0, 0.8);
+      border-radius: 15px;
+      height: 250px;
+    }
+    .table-img td:hover {
+	   transform: scale(1.05);
+       box-shadow: 0 0 20px rgba(102, 175, 233, 4);
+    }
+	.table-com {
+	  align: center;
+      text-align: center;
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 20px;
+      padding: 20px;
+    }
+    .table-com table img {
+      max-width: 250px;
+      max-height: 200px;
+      transition: transform 0.3s ease-in-out;
+    }
+    .table-com td	{
+      position: relative;
+      overflow: hidden;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 15px;
+      height: 250px;
+    }
+    .table-com tr:hover {
+	  transform: scale(1.05);
+	  border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0, 0, 255,1);
+    }
+	.carousel {
+	  border-radius: 15px;
+	  width: 90%;
+	  height: 35%;
+      max-width: 100%;
+      overflow: hidden;
+      border: 2px solid #ccc
+      background-color: #fff;
+	  margin: 0 auto;
+	}
+	.carousel:hover {
+      box-shadow: 0 0 20px rgba(102, 175, 233, 2);
+	}
+	.carousel-inner {
+	  display: flex;
+	  transition: transform 0.5s ease-in-out;
+	}
+	.carousel-item {
+	  min-width: 100%;
+	  box-sizing: border-box;
+	}
+	.carousel-item img {
+	  width: 100%;
+	  display: block;
+	}
+	.carousel-control {
+	  position: absolute;
+	  top: 50%;
+	  transform: translateY(-175%);
+      background-color: rgba(0, 0, 0, 0.5);
+	  border: none;
+	  color: orange;
+	  font-size: 2rem;
+	  padding: 15px;
+	  cursor: pointer;
+	  z-index: 1;
+	}
+	.carousel-control.prev {
+      left: 75px;
+    }
+    .carousel-control.next {
+      right: 75px;
+    }
+	.Add {
+      width: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+	}
+	.qty {
+      width: 40px;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+	.link {
+      display: inline-block;
+      color: white;
+	  height: 50px;
+	  width: 200px;
+      padding: 20px 40px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 15px;
+      transition: background-color 0.3s, transform 0.3s;
+      margin: 10px 0;
+    }
+	.fan {
+      background-color: #4CAF50;
+    }
+    .fan:hover {
+      background-color: #45a049;
+	  transform: scale(1.1);
+	  box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+    }
+    .graphic {
+      background-color: #2196F3;
+    }
+    .graphic:hover {
+      background-color: #1E88E5;
+	  transform: scale(1.1);
+	  box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+    }
+    .motherbord {
+      background-color: #f44336;
+    }
+    .motherbord:hover {
+      background-color: #e53935;
+	  transform: scale(1.1);
+	  box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+    }
+    .processer {
+      background-color: #ffeb3b;
+      color: black;
+    }
+    .processer:hover {
+      background-color: #fdd835;
+	  transform: scale(1.1);
+	  box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+    }
+    .ram {
+      background-color: #9C27B0;
+    }
+    .ram:hover {
+      background-color: #8E24AA;
+	  transform: scale(1.1);
+	  box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+    }
+    .smps {
+      background-color: #FF9800;
+    }
+    .smps:hover {
+      background-color: #FB8C00;
+	  transform: scale(1.1);
+	  box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+    }
+    .ssd {
+      background-color: #00BCD4;
+    }
+    .ssd:hover {
+      background-color: #00ACC1;
+	  transform: scale(1.1);
+	  box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+    }
+	.buy {
+    background-color: #3498db;
+	display: inline-block;
+      color: white;
+	  height: 50px;
+	  width: 500px;
+      padding: 20px 40px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 15px;
+      transition: background-color 0.3s, transform 0.3s;
+      margin: 10px 0;
+	}
+	.buy:hover {
+    background-color: #2980b9;
+	transform: scale(1.1);
+	box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+	}
