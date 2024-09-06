@@ -91,6 +91,8 @@
   </tr>
 </table>
 
+<h3>*Preferred Browser: Mozila Fierfox</h3>
+
 
 <h2 id="usage">Usage</h2>
 <p>After installing, you can use the Invoicfy Program to print bills, add items to your cart, and complete your purchases and print bill. The program includes a variety of features to enhance your bill printing experience.</p>
