@@ -21,8 +21,9 @@
     <li><a href="#features">Features</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#Testing">Tested on</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#find">Contact Us</a></li>
 </ul>
 
 <h2 id="features">Features</h2>
@@ -109,6 +110,20 @@
 
 <img src="https://github.com/Ap1311/E-Shop/blob/4f6e55ad58e207d572e8c7d8808ad311a9aa8481/pic/p3.png" alt="Screenshot 1"><br>
 <img src="https://github.com/Ap1311/E-Shop/blob/02a300ca59d3a4bae1e077a36f82590f0e2da584/pic/collage.png" alt="Screenshot 1">
+<hr>
+<h1 class="find">Find us on</h1>
+<p>
+ [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+
+- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+
+- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+
+- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-green?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
+</p>
+
 
 </body>
 </html>
