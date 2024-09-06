@@ -49,6 +49,49 @@
     </li>
 </ol>
 
+<h2 class="Testing">Tested Platforms</h2>
+
+<p>The e-Shop Program has been tested on the following platforms:</p>
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Version</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>7</td>
+    <td>✔️ Tested</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>8</td>
+    <td>✔️ Tested</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>10</td>
+    <td>✔️ Tested</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>11</td>
+    <td>✔️ Tested</td>
+  </tr>
+  <tr>
+    <td>Kali Linux</td>
+    <td>Rolling</td>
+    <td>✔️ Tested</td>
+  </tr>
+  <tr>
+    <td>Parrot OS</td>
+    <td>4.11</td>
+    <td>✔️ Tested</td>
+  </tr>
+</table>
+
+
 <h2 id="usage">Usage</h2>
 <p>After installing, you can use the Invoicfy Program to print bills, add items to your cart, and complete your purchases and print bill. The program includes a variety of features to enhance your bill printing experience.</p>
 
