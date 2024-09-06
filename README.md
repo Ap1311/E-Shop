@@ -56,15 +56,8 @@
 <h2 id="screenshots">Screenshots</h2>
 <p>Here are some screenshots of the Invoicify program</p>
 
-<!-- Example of adding an image -->
-<img src="https://github.com/Ap1311/E-Shop/blob/4f6e55ad58e207d572e8c7d8808ad311a9aa8481/pic/p3.png" alt="Screenshot 1">
-
-<!-- Example of adding an SVG -->
-<object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ic_shop.svg" width="600" height="400"></object>
-
-<!-- Example of linking to an online image -->
-<p><a href="https://via.placeholder.com/600x400" target="_blank">View Image</a></p>
-
+<img src="https://github.com/Ap1311/E-Shop/blob/4f6e55ad58e207d572e8c7d8808ad311a9aa8481/pic/p3.png" alt="Screenshot 1"><br>
+<img src="https://github.com/Ap1311/E-Shop/blob/02a300ca59d3a4bae1e077a36f82590f0e2da584/pic/collage.png" alt="Screenshot 1">
 
 </body>
 </html>
