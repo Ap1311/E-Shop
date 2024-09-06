@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>E-Shop (Digital Billing System)</h1>
+<h1 align="center">E-Shop (Digital Billing System)</h1>
 <p>Welcome to the e-Shop Program! it is a digital billing and invoicing solution which is designed to streamline the billing process for middle-class shops, making it easier for them to manage transactions, maintain records, and ensure tax compliance. The software has particularly targeted small to medium-sized businesses that require a simple yet efficient way to handle their billing needs.
 
 <h2>Table of Contents</h2>
