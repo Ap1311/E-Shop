@@ -39,14 +39,14 @@
     <li>Extract Zipfile
         <pre><code>click on unzip of extract button on that dirictry</code></pre>
     </li>
-    <li>Install dependencies:
-        <pre><code>npm install</code></pre>
+    <li>Execute:
+        <pre><code>Click on login.html (path: E-Shop/login.html)</code></pre>
     </li>
-    <li>Start the development server:
-        <pre><code>npm start</code></pre>
+    <li>Default Login:
+        <pre><code>Default Username:admin & Password:admin@1311</code></pre>
     </li>
-     <li>Password Authentication:
-        <pre><code>Message AP1311 for PassKey</code></pre>
+     <li>Print Bill:
+        <pre><code>Start Billing</code></pre>
     </li>
 </ol>
 
