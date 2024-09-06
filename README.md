@@ -57,7 +57,7 @@
 <p>Here are some screenshots of the Invoicify program</p>
 
 <!-- Example of adding an image -->
-<img src="https://via.placeholder.com/600x400" alt="Screenshot 1">
+<img src="pic/p1" alt="Screenshot 1">
 
 <!-- Example of adding an SVG -->
 <object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ic_shop.svg" width="600" height="400"></object>
@@ -65,11 +65,6 @@
 <!-- Example of linking to an online image -->
 <p><a href="https://via.placeholder.com/600x400" target="_blank">View Image</a></p>
 
-<h2 id="contributing">Contributing</h2>
-<p>We welcome contributions to the e-Shop Program! Please read our <a href="CONTRIBUTING.md">contributing guidelines</a> for more information.</p>
-
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE.md">LICENSE</a> file for details.</p>
 
 </body>
 </html>
