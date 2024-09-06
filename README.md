@@ -116,7 +116,7 @@
 
 - [![Gmail](https://img.shields.io/badge/Gmail-Aarav%20Programmers-green?style=for-the-badge&logo=gmail)](mailto:aaravprogrammers@gmail.com)
 
-- [![Whatsapp](https://img.shields.io/badge/Whatsapp-Aarav%20Programmers-green?style=for-the-badge&logo=wahtshapp)](https://wa.me/+919426705633?text=Hi%20Aarav%20Programmers)
+- [![Whatsapp](https://img.shields.io/badge/Whatsapp-Aarav%20Programmers-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+919426705633?text=Hi%20Aarav%20Programmers)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-Aarav%20Programmers-green?style=for-the-badge&logo=telegram)](https://t.me/aaravprogrmmers)
 </p>
