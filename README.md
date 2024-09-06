@@ -10,7 +10,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge"><br>
     <img src="https://img.shields.io/badge/Author-AaravShah-purple?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-HTML-CSS-JS-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-HTML-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-CSS-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-JS-blue?style=flat-square">
 </p> 
 <p>Welcome to the e-Shop Program! it is a digital billing and invoicing solution which is designed to streamline the billing process for middle-class shops, making it easier for them to manage transactions, maintain records, and ensure tax compliance. The software has particularly targeted small to medium-sized businesses that require a simple yet efficient way to handle their billing needs.
 
