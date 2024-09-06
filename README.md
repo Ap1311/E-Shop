@@ -57,7 +57,7 @@
 <p>Here are some screenshots of the Invoicify program</p>
 
 <!-- Example of adding an image -->
-<img src="pic/p1" alt="Screenshot 1">
+<img src="pic/p1.jpg" alt="Screenshot 1">
 
 <!-- Example of adding an SVG -->
 <object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ic_shop.svg" width="600" height="400"></object>
