@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1 align="center">E-Shop (Digital Billing System)
+<h1 align="center">E-Shop (Digital Billing System)<br>
 <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge"><br>
     <img src="https://img.shields.io/badge/Written%20In-HTML-blue?style=flat-square">
