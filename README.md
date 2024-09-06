@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <td>Parrot OS</td>
-    <td>5.1</td>
+    <td>6.1</td>
     <td>✔️ Tested</td>
   </tr>
 </table>
