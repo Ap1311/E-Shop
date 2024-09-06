@@ -116,11 +116,9 @@
 
 - [![Gmail](https://img.shields.io/badge/Gmail-Aarav%20Programmers-green?style=for-the-badge&logo=gmail)](mailto:aaravprogrammers@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Whatsapp](https://img.shields.io/badge/Messenger-Aarav%20Programmers-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-green?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
+- [![Telegram](https://img.shields.io/badge/Telegram-Aarav%20Programmers-green?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
 </p>
 
 
